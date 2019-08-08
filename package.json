@@ -1,0 +1,16 @@
+{
+  "name": "tdd_addressBook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "address.js",
+  "scripts": {
+    "test": "Mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
